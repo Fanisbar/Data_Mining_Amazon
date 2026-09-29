@@ -27,7 +27,7 @@ The analysis is strictly organized into two distinct Jupyter Notebooks, represen
 * **`part2.ipynb` - Product Clustering & Market Basket Analysis:** Focuses on unsupervised machine learning. It involves heavy NLP pre-processing, TF-IDF vectorization, K-Means clustering, building a cluster-based recommendation system, and extracting frequent purchasing patterns using the FP-Growth algorithm (with temporal analysis for the holiday season).
 * **`report.pdf` / `report.tex`:** The full academic report documenting all findings, visual plots, and technical design choices in detail. (!! Work in progress !!)
 
-*NOTE: This project has been finished in essence, but as I keep refining and tuning it further, the report completion is suspended and its information may be incomplete or false.*
+*NOTE: The accompanying report is still being finalized and may change as the analysis is refined.*
 
 ---
 
@@ -70,8 +70,8 @@ To handle the immense scale and complexity of the data, several critical data en
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Fanisbar/mining_amazon.git](https://github.com/Fanisbar/mining_amazon.git)
-   cd mining_amazon
+   git clone https://github.com/Fanisbar/Data_Mining_Amazon.git
+   cd Data_Mining_Amazon
    ```
 2. **Install the required dependencies:**
 Make sure you have Python 3.10+ installed (v3.10.12 used in development). Run the following command to install all necessary packages (Pandas, Seaborn, scikit-learn, mlxtend, nltk, etc.):
