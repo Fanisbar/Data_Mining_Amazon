@@ -1,8 +1,10 @@
 # Data Mining & Analysis on Amazon Datasets
 
-[![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)
 ![Python Version](https://img.shields.io/badge/Python-3.10.12-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Ready-orange.svg)
+[![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 This repository contains a comprehensive data mining and machine learning project focused on large-scale Amazon datasets from Hugging Face (Reviews and Metadata collected in 2023 by the McAuley Lab). The project explores the hidden patterns, user sentiments, product clusters, and purchasing behaviors across five massive product categories: **Appliances, All_Beauty, Musical_Instruments, Software,** and **Video_Games**.
