@@ -1,5 +1,6 @@
 # Data Mining & Analysis on Amazon Datasets
 
+[![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)
 ![Python Version](https://img.shields.io/badge/Python-3.10.12-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Ready-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
